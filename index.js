@@ -19,5 +19,5 @@ function logWhisper(spy) {
 }
 
 function sayHiToGrandma(string) {
-  if (string )
+  if (string.toLowerCase === string) 
 }
